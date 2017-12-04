@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mynextgame", "mynextgame\mynextgame\mynextgame.csproj", "{39A94311-47D9-4BB6-A6B1-510D6EA357FF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "mynextgameContent", "mynextgame\mynextgameContent\mynextgameContent.contentproj", "{653119D4-66A4-434B-AFDA-2E3588C45A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A94311-47D9-4BB6-A6B1-510D6EA357FF}.Debug|x86.ActiveCfg = Debug|x86
+		{39A94311-47D9-4BB6-A6B1-510D6EA357FF}.Debug|x86.Build.0 = Debug|x86
+		{39A94311-47D9-4BB6-A6B1-510D6EA357FF}.Release|x86.ActiveCfg = Release|x86
+		{39A94311-47D9-4BB6-A6B1-510D6EA357FF}.Release|x86.Build.0 = Release|x86
+		{653119D4-66A4-434B-AFDA-2E3588C45A8B}.Debug|x86.ActiveCfg = Debug|x86
+		{653119D4-66A4-434B-AFDA-2E3588C45A8B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
